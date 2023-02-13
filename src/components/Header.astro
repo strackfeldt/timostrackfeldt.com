@@ -1,0 +1,18 @@
+---
+import { SITE_TITLE } from "../consts";
+import HeaderLink from "./HeaderLink.astro";
+---
+
+<header>
+  <h2 class="text-4xl pb-4 flex font-medium items-center gap-8">
+    <img
+      src="/avatar.png"
+      alt="timo's avatar"
+      width="120"
+      height="120"
+      class="rounded-full object-cover border-none m-0 font-bold"
+    />
+    {SITE_TITLE}
+  </h2>
+</header>
+
