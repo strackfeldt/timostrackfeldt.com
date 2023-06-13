@@ -1,13 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 36 36">
-  <path fill="#000" d="M22.25 4h-8.5a1 1 0 0 0-.96.73l-5.54 19.4a.5.5 0 0 0 .62.62l5.05-1.44a2 2 0 0 0 1.38-1.4l3.22-11.66a.5.5 0 0 1 .96 0l3.22 11.67a2 2 0 0 0 1.38 1.39l5.05 1.44a.5.5 0 0 0 .62-.62l-5.54-19.4a1 1 0 0 0-.96-.73Z"/>
-  <path fill="url(#gradient)" d="M18 28a7.63 7.63 0 0 1-5-2c-1.4 2.1-.35 4.35.6 5.55.14.17.41.07.47-.15.44-1.8 2.93-1.22 2.93.6 0 2.28.87 3.4 1.72 3.81.34.16.59-.2.49-.56-.31-1.05-.29-2.46 1.29-3.25 3-1.5 3.17-4.83 2.5-6-.67.67-2.6 2-5 2Z"/>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 87.40521006981476 83.83071563183182" width="174.8104201396295" height="167.66143126366364" filter="invert(93%) hue-rotate(180deg)">
+  <!-- svg-source:excalidraw -->
+  
   <defs>
-    <linearGradient id="gradient" x1="16" x2="16" y1="32" y2="24" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#000"/>
-      <stop offset="1" stop-color="#000" stop-opacity="0"/>
-    </linearGradient>
+    <style class="style-fonts">
+      @font-face {
+        font-family: "Virgil";
+        src: url("https://excalidraw.com/Virgil.woff2");
+      }
+      @font-face {
+        font-family: "Cascadia";
+        src: url("https://excalidraw.com/Cascadia.woff2");
+      }
+    </style>
   </defs>
-	<style>
-    @media (prefers-color-scheme:dark){:root{filter:invert(100%)}}
-  </style>
-</svg>
+  <g transform="translate(18.862837158665116 20.008172535811468) rotate(0 25.416000366210938 22.5)"><text x="25.416000366210938" y="0" font-family="Virgil, Segoe UI Emoji" font-size="36px" fill="#1e1e1e" text-anchor="middle" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">TS</text></g><g stroke-linecap="round" transform="translate(10 10) rotate(0 33.70260503490738 31.91535781591591)"><path d="M15.96 0 M15.96 0 C22.13 0.7, 30.31 -1.12, 51.45 0 M15.96 0 C29.88 0.47, 44.21 -1.11, 51.45 0 M51.45 0 C61.16 -0.63, 65.87 3.41, 67.41 15.96 M51.45 0 C62.12 0.55, 67.26 5.29, 67.41 15.96 M67.41 15.96 C69.1 23.57, 68 31.38, 67.41 47.87 M67.41 15.96 C67.93 25, 66.87 33.84, 67.41 47.87 M67.41 47.87 C67.38 56.8, 62.32 65.32, 51.45 63.83 M67.41 47.87 C69.29 59.74, 61.37 65.56, 51.45 63.83 M51.45 63.83 C43.14 62.96, 34.96 63.71, 15.96 63.83 M51.45 63.83 C43.46 64.62, 35.55 63.55, 15.96 63.83 M15.96 63.83 C3.8 63.46, -1.99 56.81, 0 47.87 M15.96 63.83 C4.99 63.12, 1.22 57.58, 0 47.87 M0 47.87 C0.16 40.6, -1.63 32.06, 0 15.96 M0 47.87 C-0.8 39.54, 0.19 32.78, 0 15.96 M0 15.96 C0.74 3.52, 4.31 -0.59, 15.96 0 M0 15.96 C-2.09 3.83, 6.9 1.06, 15.96 0" stroke="#1e1e1e" stroke-width="4" fill="none"></path></g></svg>
