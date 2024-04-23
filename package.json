@@ -2,9 +2,6 @@
 	"name": "timostrackfeldt.com",
 	"type": "module",
 	"version": "0.0.1",
-	"engines": {
-    "pnpm": ">=8"
- },
 	"scripts": {
 		"dev": "astro dev",
 		"start": "astro dev",
