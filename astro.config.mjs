@@ -8,8 +8,4 @@ import tailwind from "@astrojs/tailwind";
 export default defineConfig({
   site: "https://timostrackfeldt.com",
   integrations: [mdx(), sitemap(), tailwind()],
-  output: "server",
-  adapter: node({
-    mode: "standalone",
-  }),
 });
